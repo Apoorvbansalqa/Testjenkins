@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0804-4810
+
+ Directory of C:\Users\apoor\eclipse-workspace\Testproject\src
+
+10-11-2021  14:59    <DIR>          .
+08-11-2021  12:35    <DIR>          ..
+08-11-2021  12:18    <DIR>          test
+10-11-2021  14:59                 0 test.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  400,060,260,352 bytes free
