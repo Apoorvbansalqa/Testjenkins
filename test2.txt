@@ -1,0 +1,16 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 0804-4810
+
+ Directory of C:\Users\apoor\eclipse-workspace\Testproject
+
+11-11-2021  15:09    <DIR>          .
+08-11-2021  12:12    <DIR>          ..
+08-11-2021  12:12               396 .classpath
+08-11-2021  12:12               387 .project
+08-11-2021  12:12    <DIR>          .settings
+10-11-2021  14:59    <DIR>          bin
+08-11-2021  12:35               581 readme.txt
+10-11-2021  14:59    <DIR>          src
+11-11-2021  15:09                 0 test2.txt
+               4 File(s)          1,364 bytes
+               5 Dir(s)  400,068,775,936 bytes free
